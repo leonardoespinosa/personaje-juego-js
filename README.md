@@ -1,0 +1,3 @@
+# personaje-juego-js
+Ejemplo de como crear un personaje de un juego usando JavaScript
+En el codigo se detalla como hacer el movimiento de un personaje con el teclado, ubicar un campo de juego, entre otros....
